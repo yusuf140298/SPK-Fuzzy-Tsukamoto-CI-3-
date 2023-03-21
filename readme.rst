@@ -1,76 +1,47 @@
-###################
-What is CodeIgniter
-###################
+## Deskripsi Aplikasi 
+Aplikasi Sistem Pendukung Keputusan  Jumlah Produksi Dengan Metode Fuzzy Tsukamoto .
+<hr>
+### * Untuk Reuploader Source Code tolong cantumin sumber juga ya, terima kasih :)
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+## Setting Koneksi PHP
+setting koneksi database sesuai dengan nama databasenya pada application/config/database.php 
 
-*******************
-Release Information
-*******************
+## Penggunaan Login
+Username : admin
+<br/>
+Password : admin
+<br>
+<span style="color:red">* Penggunaan Login untuk <b>Multi User</b> </span>
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+## Contoh Program V1
 
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
-
-***************
-Picture Page
-***************
+![Screenshot (3)](https://user-images.githubusercontent.com/98450474/226603182-3e900b94-6a8f-49b0-8c7e-1116a1a8e25d.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/98450474/226603202-8c85a137-f7b7-46a4-bd21-4d1a007130ea.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/98450474/226603207-4da3c2ad-442f-4650-9545-e55b5cec97b7.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/98450474/226603214-3985981e-169d-40b1-acfa-6ccfa88d0917.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/98450474/226603228-008ed7ce-272d-4579-b10d-bf5d20d3fd61.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/98450474/226603238-55b4310e-a60d-4816-848c-56c6e18d3da2.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/98450474/226603246-afe04fa4-362f-4e91-a617-c6cb9fe260ca.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/98450474/226603253-254e2fc1-0663-4407-ba15-b47c1a3533c1.png)
 
 
+
+## Changelog
+12 Desember 2021<br>
+- Update v1.0
+- Migrasi Template SB Admin 2 Bootstrap 4
+
+31 Januari 2021<br>
+- Tambah Sortir khusus stok kurang dari >= 3
+- Cari Per Tanggal Laporan 
+- Cari Per bulan Laporan
+- Fix Perhitungan Laporan
+
+<br>
+** Jika ada issues atau revisi atau menambahkan fitur silahkan pull request di repository ini
+
+## Contributors
+<a href="#">Yusuf Maulana</a>
+
+
+Aplikasi yang dibuat guna penelitian pada tahun 2022 di pada pabrik sagu
