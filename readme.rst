@@ -73,7 +73,5 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 Picture Page
 ***************
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yusuf140298/SPK-Fuzzy-Tsukamoto-CI 3-/blob/master/screenshot%20aplikasi/Screenshot%20(10).png">
-</picture>
+  <img width=“964” alt=“java 8 and prio java 8  array review example” src="https://github.com/yusuf140298/SPK-Fuzzy-Tsukamoto-CI 3-/blob/master/screenshot%20aplikasi/Screenshot%20(10).png">
 
