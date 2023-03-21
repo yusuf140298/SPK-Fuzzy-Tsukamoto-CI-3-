@@ -1,0 +1,5 @@
+.background-img{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://lh3.googleusercontent.com/proxy/ZBPR2jX4bcCkz3Aglhwc5UCVbs9EaGFvXvKy_X6FG77ZsycRkV0dZjFMb1B9fyakpxQxETDURW4K3v8dex0mxG_qahj4w3c_DuP9buWFnmOLhRjEd2DZ2NINnGrBvdGanYE);
+    background-size: cover;
+    background-position: center;
+}
